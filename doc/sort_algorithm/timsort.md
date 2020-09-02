@@ -12,4 +12,4 @@
     - It does not sort where the point of data are already sorted.
 - So Timsort works very well with real-world data, unlike Quick Sort.
 
-### <b>[URL](https://github.com/underflow101/code-example/blob/master/sort/timsort.py)</b>
+### <b>[Example Code URL](https://github.com/underflow101/code-example/blob/master/sort/timsort.py)</b>
