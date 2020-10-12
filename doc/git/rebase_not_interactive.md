@@ -11,7 +11,7 @@
 ### Solution
 - `$ git fetch upstream master`
 - `$ git rebase upstream/master`
-- `$ git push origin/your_PR_branch`
+- `$ git push origin your_PR_branch`
     - if this doesn't work, use:
-        - `$ git push --force origin/your_PR_branch`
+        - `$ git push --force origin your_PR_branch`
 - Now problem is gone! Your whole commits in PR will be placed right after the fix of that code
